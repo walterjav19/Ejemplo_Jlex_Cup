@@ -1,0 +1,5 @@
+Calcular [4+5*8];
+Calcular [-(4+3/2)];  
+    $
+Calcular [8*9+2];
+Calcular[(2+3)/2];
