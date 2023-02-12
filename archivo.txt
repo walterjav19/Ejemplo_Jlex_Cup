@@ -1,0 +1,6 @@
+Calcular [2+3];
+Calcular [6*4+5];
+Calcular [(5+5)/2];
+Calcular [3*4];
+
+
